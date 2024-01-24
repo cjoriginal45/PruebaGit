@@ -1,0 +1,25 @@
+iniciar git = git init
+
+añadir archivo = git add
+
+visulaizar archivos = git status
+
+insertar archivos = git commit -m "descripcion"
+
+subir a github = git push -u origin (rama)
+
+clonar = git clone (url de github)
+
+pull (trae archivos de github) = git pull origin (rama) ej:master
+
+saber en que rama estamos = git branch
+
+crear rama = git branch nombrederama
+
+cambiar nombre a una rama = git branch -m nombrectual nombrenuevo
+
+cambiar de rama = git checkout nombrerama
+
+eliminar rama = git branch -d nombrerama
+
+
